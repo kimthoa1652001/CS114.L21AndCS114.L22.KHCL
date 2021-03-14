@@ -1,5 +1,14 @@
 # CS114.L21AndCS114.L22.KHCL
 # Thành viên nhóm :
-- Phan Trọng Hậu CS114.L21 19520077 https://github.com/hauphanlvc
-- Trương Thị Kim Thoa CS114.L22.KHCl 19522295
-- Cao Đức Trí CS114.L21 19520305 
+## Phan Trọng Hậu 
+   * Lớp : CS114.L21 
+   * MSSV: 19520077 
+   * GitHub : [PhanTrongHau](https://github.com/hauphanlvc)
+## Trương Thị Kim Thoa 
+   * Lớp : CS114.L22.KHCl 
+   * MSSV : 19522295 
+   * GitHub: [TruongThiKimThoa](https://github.com/19522295)
+## Cao Đức Trí 
+   * Lớp : CS114.L21 
+   * MSSV : 19520305 
+   * GitHub: [CaoDucTri](https://github.com/caoductri1629/)
