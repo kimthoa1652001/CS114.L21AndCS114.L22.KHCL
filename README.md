@@ -7,7 +7,7 @@
 ## Trương Thị Kim Thoa 
    * Lớp : CS114.L22.KHCl 
    * MSSV : 19522295 
-   * GitHub: [TruongThiKimThoa](https://github.com/kimthoa16052001)
+   * GitHub: [TruongThiKimThoa](https://github.com/kimthoa1652001)
 ## Cao Đức Trí 
    * Lớp : CS114.L21 
    * MSSV : 19520305 
